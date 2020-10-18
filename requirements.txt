@@ -1,3 +1,4 @@
 git+https://github.com/Rapptz/discord.py
+git+https://github.com/zacharied/discord-eprompt
 psycopg2 == 2.8.3
 configparser == 3.8.1
